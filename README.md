@@ -1,4 +1,4 @@
-# Projet : Bataille Navale (Python)
+# Projet : Bataille Navale
 
 Ce projet est une mini-implémentation du jeu Bataille Navale en Python.  
 Il inclut :
